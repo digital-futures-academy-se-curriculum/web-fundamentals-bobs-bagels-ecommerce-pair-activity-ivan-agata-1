@@ -12,16 +12,16 @@ img{
     object-fit: cover;
 }
 body {
-     background-color: grey 
+     background-color: blanchedalmond; 
     }
 
  .navbar {
-     background-color: goldenrod;
+     background-color:lightseagreen;
      font-family:'Segoe UI';
    
-
+/* #4A90E2 */
 }
 .card {
-    background-color: grey; 
+    background-color:blanchedalmond;
     border: none;
 }
